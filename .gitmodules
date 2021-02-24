@@ -1,0 +1,3 @@
+[submodule "asic/u500/freedom"]
+	path = asic/u500/freedom
+	url = https://github.com/sifive/freedom.git
